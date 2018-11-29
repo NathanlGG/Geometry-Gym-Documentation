@@ -2,7 +2,7 @@
 
 ## Getting Super Powers
 
-Becoming a super hero is a fairly straight forward process:
+Becoming a super hero is a fairly straight forward process: but somethimes you need a little complexity in your life dont you. So this is where I explain how to do this. 
 
 ```
 $ give me super-powers
