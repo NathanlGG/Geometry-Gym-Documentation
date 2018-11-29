@@ -39,5 +39,7 @@ sdfsdf
 
 {% file src=".gitbook/assets/0-150212-revit-simple-defining-a-composite-wall.gh" %}
 
+{% file src=".gitbook/assets/0-150616-revit-simple-nurbs-object-into-revit.gh" caption="Nurbs Object into Revit" %}
+
 
 
