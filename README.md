@@ -26,10 +26,6 @@ dlkfjasdflkjasd;flkjsdfjkasdfsadfasdf
 * asdfasdfasdf
 {% endtab %}
 
-{% tab title="Second Tab" %}
-
-{% endtab %}
-
 {% tab title="" %}
 
 {% endtab %}
