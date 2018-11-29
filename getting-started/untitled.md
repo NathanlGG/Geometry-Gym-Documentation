@@ -5,7 +5,7 @@
 Becoming a super hero is a fairly straight forward process:
 
 ```
-$ give me super-powers
+$ give me super-powers put not to many super powers becasue then I will be too strong.
 ```
 
 {% hint style="info" %}
