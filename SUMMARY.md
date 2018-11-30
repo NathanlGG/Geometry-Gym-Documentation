@@ -12,7 +12,7 @@
   * [Import/Export](rhino-grasshopper/structuralanalysis/import-export/README.md)
     * [Karamba3d](rhino-grasshopper/structuralanalysis/import-export/karamba3d.md)
   * [GSA](rhino-grasshopper/structuralanalysis/gsa/README.md)
-    * [Examples](rhino-grasshopper/structuralanalysis/gsa/examples.md)
+    * [GSA Examples](rhino-grasshopper/structuralanalysis/gsa/examples.md)
   * [SAP2000](rhino-grasshopper/structuralanalysis/sap2000/README.md)
     * [Examples](rhino-grasshopper/structuralanalysis/sap2000/examples.md)
   * [Etabs](rhino-grasshopper/structuralanalysis/etabs/README.md)

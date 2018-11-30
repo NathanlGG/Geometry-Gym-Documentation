@@ -2,7 +2,7 @@
 description: Provides examples specific to the ggGSA plug-in application
 ---
 
-# Examples
+# GSA Examples
 
 ## GSA Feature Examples
 
