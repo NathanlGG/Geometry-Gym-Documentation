@@ -1,7 +1,3 @@
----
-description: An overview of geometry gym applications
----
-
 # Geometry Gym - An Overview
 
 ## OpenBIM
