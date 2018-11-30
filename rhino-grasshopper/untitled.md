@@ -1,4 +1,4 @@
-# Installation
+# BullAnt
 
 ## Getting Super Powers
 
