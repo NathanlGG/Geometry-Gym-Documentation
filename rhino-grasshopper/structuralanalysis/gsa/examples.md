@@ -20,5 +20,3 @@ description: Provides examples specific to the ggGSA plug-in application
 
 ### Intermediate
 
-{% file src="../../../.gitbook/assets/0-110516-gsa-intermediate-non-linear-form-finding-of-mesh-surface.gh" caption="Non-Linear Form Finding of Mesh Surface" %}
-
