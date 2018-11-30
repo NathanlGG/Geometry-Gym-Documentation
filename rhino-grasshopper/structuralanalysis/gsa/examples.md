@@ -14,6 +14,8 @@ description: Provides examples specific to the ggGSA plug-in application
 
 {% file src="../../../.gitbook/assets/0-120713-gsa-simple-defining-a-load-case-combination.gh" caption="Defining a Load Case Combination" %}
 
+{% file src="../../../.gitbook/assets/0-110516-gsa-intermediate-non-linear-form-finding-of-mesh-surface.gh" caption="GSA test" %}
+
 ## GSA Model Examples
 
 ### Simple

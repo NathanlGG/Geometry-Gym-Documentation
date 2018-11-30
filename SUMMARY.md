@@ -14,7 +14,7 @@
   * [GSA](rhino-grasshopper/structuralanalysis/gsa/README.md)
     * [GSA Examples](rhino-grasshopper/structuralanalysis/gsa/examples.md)
   * [SAP2000](rhino-grasshopper/structuralanalysis/sap2000/README.md)
-    * [Examples](rhino-grasshopper/structuralanalysis/sap2000/examples.md)
+    * [Examples](rhino-grasshopper/structuralanalysis/etabs/examples.md)
   * [Etabs](rhino-grasshopper/structuralanalysis/etabs/README.md)
     * [Examples](rhino-grasshopper/structuralanalysis/etabs/examples.md)
   * [ROBOT](rhino-grasshopper/structuralanalysis/robot/README.md)
