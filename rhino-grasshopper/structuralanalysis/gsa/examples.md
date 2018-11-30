@@ -18,9 +18,9 @@ description: Provides examples specific to the ggGSA plug-in application
 
 [Uniform Load on Panel](../../../.gitbook/assets/0-130417-gsa-simple-uniform-load-on-panel.gh)
 
-<a href="../../../.gitbook/assets/0-130417-gsa-simple-uniform-load-on-panel.gh" download>Click to Download</a>
+<a href="../../../.gitbook/assets/0-130417-gsa-simple-uniform-load-on-panel.gh" download>"Uniform Load on Panel"</a>
 
-<a href="../../../.gitbook/assets/0-130417-gsa-simple-uniform-load-on-panel.gh" download="Uniform Load on Panel"><img src="../../../.gitbook/assets/0-130417-gsa-simple-uniform-load-on-panel.gh" /></a>
+<a href="../../../.gitbook/assets/0-130417-gsa-simple-uniform-load-on-panel.gh" download="Uniform Load on Panel"><file src="../../../.gitbook/assets/0-130417-gsa-simple-uniform-load-on-panel.gh" /></a>
 
 ## Model Examples
 
