@@ -6,5 +6,5 @@
 
 
 
-**[Create Finite element mesh](../../../.gitbook\assets-GH\0-101010 SAP-Simple-Create structural finite element mesh.gh)**
+**[Create Finite element mesh](../../../.gitbook\assets\0-101010 SAP-Simple-Create structural finite element mesh.gh)**
 
