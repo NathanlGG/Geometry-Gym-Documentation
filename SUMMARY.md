@@ -30,6 +30,7 @@
 * [Revit](rhino-grasshopper/revit/README.md)
   * [Examples](rhino-grasshopper/revit/examples.md)
 * [IFC](rhino-grasshopper/untitled-1/README.md)
+  * [Properties](rhino-grasshopper/untitled-1/properties.md)
   * [IFC Import/Export](rhino-grasshopper/untitled-1/ifc-import-export.md)
   * [Examples](rhino-grasshopper/untitled-1/examples.md)
 * [Tekla](rhino-grasshopper/tekla/README.md)
