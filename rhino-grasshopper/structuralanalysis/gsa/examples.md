@@ -4,9 +4,7 @@ description: Provides examples specific to the ggGSA plug-in application
 
 # Examples
 
-## Feature Examples
-
-
+## GSA Feature Examples
 
 {% file src="../../../.gitbook/assets/0-130417-gsa-simple-uniform-load-on-panel.gh" caption="Uniform Load on Panel" %}
 
@@ -16,19 +14,9 @@ description: Provides examples specific to the ggGSA plug-in application
 
 {% file src="../../../.gitbook/assets/0-120713-gsa-simple-defining-a-load-case-combination.gh" caption="Defining a Load Case Combination" %}
 
-[Uniform Load on Panel](../../../.gitbook/assets/0-130417-gsa-simple-uniform-load-on-panel.gh)
-
-<a href="../../../.gitbook/assets/0-130417-gsa-simple-uniform-load-on-panel.gh" download="Uniform Load on Panel">Click here</a>
-
-<a href="../../../.gitbook/assets/0-130417-gsa-simple-uniform-load-on-panel.gh" download="Uniform Load on Panel">< src="../../../.gitbook/assets/0-130417-gsa-simple-uniform-load-on-panel.gh" /></a>
-
 ## Model Examples
 
 ### Simple
 
-
-
 ### Intermediate
-
-
 
