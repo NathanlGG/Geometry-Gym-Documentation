@@ -20,7 +20,7 @@ description: Provides examples specific to the ggGSA plug-in application
 
 <a href="../../../.gitbook/assets/0-130417-gsa-simple-uniform-load-on-panel.gh" download="Uniform Load on Panel">Click here</a>
 
-<a href="../../../.gitbook/assets/0-130417-gsa-simple-uniform-load-on-panel.gh" download="Uniform Load on Panel">< src="../../../.gitbook/assets/0-130417-gsa-simple-uniform-load-on-panel.gh" /></a>
+<a href="../../../.gitbook/assets/0-121204-gsa-simple-curve-point-load.gh" download="Point Load on Curve">Click here</a>
 
 ## Model Examples
 
