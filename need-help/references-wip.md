@@ -8,5 +8,5 @@ description: Provides a list of common reference
 This is work in progress, generally references will be provided into the content at the specific point in the document but collating them in this section for now.
 {% endhint %}
 
-[IFC Documentation](www.buildingsmart-tech.org/ifc/IFC2x3/)
+[IFC Documentation](http://www.buildingsmart-tech.org/ifc/)
 
