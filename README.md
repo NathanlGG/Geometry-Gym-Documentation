@@ -1,4 +1,4 @@
-# Geometry Gym - An Overview
+# Geometry Gym
 
 {% hint style="danger" %}
 Work In Progress

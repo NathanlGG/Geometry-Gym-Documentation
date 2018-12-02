@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Geometry Gym - An Overview](README.md)
+* [Geometry Gym](README.md)
 * [Getting Started](getting-started-1/README.md)
   * [Installation](getting-started-1/installation.md)
 
@@ -14,9 +14,9 @@
   * [GSA](rhino-grasshopper/structuralanalysis/gsa/README.md)
     * [GSA Examples](rhino-grasshopper/structuralanalysis/gsa/examples.md)
   * [SAP2000](rhino-grasshopper/structuralanalysis/sap2000/README.md)
-    * [Examples](rhino-grasshopper/structuralanalysis/etabs/examples.md)
+    * [Examples](rhino-grasshopper/structuralanalysis/robot/examples.md)
   * [Etabs](rhino-grasshopper/structuralanalysis/etabs/README.md)
-    * [Examples](rhino-grasshopper/structuralanalysis/etabs/examples.md)
+    * [Examples](rhino-grasshopper/structuralanalysis/robot/examples.md)
   * [ROBOT](rhino-grasshopper/structuralanalysis/robot/README.md)
     * [Examples](rhino-grasshopper/structuralanalysis/robot/examples.md)
   * [SpaceGass](rhino-grasshopper/structuralanalysis/spacegass/README.md)
@@ -42,4 +42,9 @@
 
 * [IFC Import/Export](revit/ifc-import-export.md)
 * [IFC Tools](revit/untitled.md)
+
+## Need Help?
+
+* [Ask on the Forum](https://discourse.mcneel.com/c/plug-ins/GeometryGym)
+* [FAQs](need-help/faqs.md)
 
