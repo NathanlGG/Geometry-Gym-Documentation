@@ -47,4 +47,5 @@
 
 * [Ask on the Forum](https://discourse.mcneel.com/c/plug-ins/GeometryGym)
 * [FAQs](need-help/faqs.md)
+* [References - WIP](need-help/references-wip.md)
 
