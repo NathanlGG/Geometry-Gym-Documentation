@@ -3,6 +3,7 @@
 * [Geometry Gym](README.md)
 * [Getting Started](getting-started-1/README.md)
   * [Installation](getting-started-1/installation.md)
+  * [Licencing](getting-started-1/licencing.md)
 
 ## Rhino-Grasshopper
 
@@ -40,6 +41,7 @@
 
 ## Revit
 
+* [Introduction](revit/introduction.md)
 * [IFC Import/Export](revit/ifc-import-export.md)
 * [IFC Tools](revit/untitled.md)
 
