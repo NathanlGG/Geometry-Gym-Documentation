@@ -4,7 +4,7 @@
 
 Always update to latest installer of all plugins of interest \(to ensure compatibility\). Plugins are updated on a frequent basis with small improvements and it’s a good idea to update \(when available\) every month or so. 
 
-{% page-ref page="../getting-started-1/installation.md" %}
+{% page-ref page="../getting-started-1/installation/" %}
 
 If you have downloaded latest and something still is not working please contact us and we can look into the issue.
 

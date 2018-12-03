@@ -1,21 +1,12 @@
+---
+description: A Geometry Gym plug-in
+---
+
 # BullAnt
 
-## Getting Super Powers
-
-Becoming a super hero is a fairly straight forward process:
-
-```text
-$ give me super-powers put not to many super powers becasue then I will be too strong.
-```
-
 {% hint style="info" %}
-Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+BullAnt for Rhino-Grasshopper is currently a **free** plug-in which can be continually used after activation.
 {% endhint %}
 
-Once you're strong enough, save the world:
 
-```text
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
 

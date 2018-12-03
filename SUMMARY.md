@@ -2,11 +2,14 @@
 
 * [Geometry Gym](README.md)
 * [Getting Started](getting-started-1/README.md)
-  * [Installation](getting-started-1/installation.md)
+  * [Installation](getting-started-1/installation/README.md)
+    * [Common Installation Issues](getting-started-1/installation/common-installation-issues.md)
   * [Licencing](getting-started-1/licencing.md)
 
 ## Rhino-Grasshopper
 
+* [Introduction](rhino-grasshopper/introduction/README.md)
+  * [Setting up a Toolbar Group](rhino-grasshopper/introduction/setting-up-a-toolbar-group.md)
 * [BullAnt](rhino-grasshopper/untitled.md)
 * [StructuralAnalysis](rhino-grasshopper/structuralanalysis/README.md)
   * [Common Attributes](rhino-grasshopper/structuralanalysis/common-attributes.md)
