@@ -1,10 +1,9 @@
 # Table of contents
 
 * [Geometry Gym](README.md)
-* [Getting Started](getting-started-1/README.md)
-  * [Installation](getting-started-1/installation/README.md)
-    * [Common Installation Issues](getting-started-1/installation/common-installation-issues.md)
-  * [Licencing](getting-started-1/licencing.md)
+* [Installation](installation/README.md)
+  * [Common Installation Issues](installation/common-installation-issues.md)
+* [Licencing](licencing.md)
 
 ## Rhino-Grasshopper
 

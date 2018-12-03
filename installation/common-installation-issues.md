@@ -32,7 +32,7 @@ In version 6 each plug-in is loaded with an individual toolbar so these should b
 
 Due to feedback, in Rhino version 6 toolbars are not automatically grouped. You can follow the steps at the location below to create a toolbar group in rhino. 
 
-{% page-ref page="../../rhino-grasshopper/introduction/setting-up-a-toolbar-group.md" %}
+{% page-ref page="../rhino-grasshopper/introduction/setting-up-a-toolbar-group.md" %}
 
 ## Cannot View Geometry Gym Grasshopper Tabs
 
@@ -50,7 +50,7 @@ As grasshopper starts it will generally provide errors if something has not load
 
 Run Rhino command GrasshopperDeveloperSettings and **tick** COFF loading. Previous versions commonly required COFF loading to be not checked, so try toggling if having problems.
 
-![](../../.gitbook/assets/gh-developer-settings.png)
+![](../.gitbook/assets/gh-developer-settings.png)
 
 
 

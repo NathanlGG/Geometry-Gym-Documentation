@@ -47,7 +47,7 @@ If you installed for the first time, Rhino should report loading of new plugins.
 
 The plug-ins should now be installed and ready to use. New rhino commands starting with '`gg`'  should now be available in the command line along with a number of specific rhino toolbars:
 
-![Geometry Gym Tabs and Commands](../../.gitbook/assets/view-gg-commands.gif)
+![Geometry Gym Tabs and Commands](../.gitbook/assets/view-gg-commands.gif)
 
 If you cannot view the 'gg' commands from the command line you may need to manually install the rhino plug-ins. Please follow the link below for some common issues that can occur during installation.
 
@@ -59,7 +59,7 @@ If you are still experiencing issues after these steps please contact us.
 
 After installing, plug-in tabs in Grasshopper should also be added: 
 
-![Geometry Gym Grasshopper Tabs](../../.gitbook/assets/gh-tabs.png)
+![Geometry Gym Grasshopper Tabs](../.gitbook/assets/gh-tabs.png)
 
 Only tabs which include the plug-in you have installed will be provided. If the grasshopper tabs are not loading these can also be loaded manually. Please follow the link above for common installation issues.
 
@@ -77,7 +77,7 @@ To Request a trial licence:
 
 1. Run the rhino command `ggZZLicenseRequest` command within Rhino and a dialog will present as shown below:
 
-![](../../.gitbook/assets/gglicence-request.gif)
+![](../.gitbook/assets/gglicence-request.gif)
 
 If you a variant of Outlook/Windows Live installed, you can accept the option for an email to be prepared to send to me. If not, the xml text data I need will have already been placed in Windows Clipboard. 
 
