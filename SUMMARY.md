@@ -8,7 +8,7 @@
 ## Rhino-Grasshopper
 
 * [Introduction](rhino-grasshopper/introduction/README.md)
-  * [Setting up a Toolbar Group](rhino-grasshopper/introduction/setting-up-a-toolbar-group.md)
+  * [Rhino Set-up](rhino-grasshopper/introduction/setting-up-a-toolbar-group.md)
 * [BullAnt](rhino-grasshopper/untitled.md)
 * [StructuralAnalysis](rhino-grasshopper/structuralanalysis/README.md)
   * [Common Attributes](rhino-grasshopper/structuralanalysis/common-attributes.md)
@@ -30,6 +30,7 @@
     * [Examples](rhino-grasshopper/structuralanalysis/scia/examples.md)
   * [Sofistik](rhino-grasshopper/structuralanalysis/sofistik/README.md)
     * [Examples](rhino-grasshopper/structuralanalysis/sofistik/examples.md)
+  * [Create with Code](rhino-grasshopper/structuralanalysis/create-with-code.md)
 * [Revit](rhino-grasshopper/revit/README.md)
   * [Examples](rhino-grasshopper/revit/examples.md)
 * [IFC](rhino-grasshopper/untitled-1/README.md)
