@@ -47,13 +47,21 @@ If you installed for the first time, Rhino should report loading of new plugins.
 
 The plug-ins should now be installed and ready to use. New rhino commands starting with '`gg`'  should now be available in the command line along with a number of specific rhino toolbars:
 
-![](../../.gitbook/assets/view-gg-commands.gif)
+![Geometry Gym Tabs and Commands](../../.gitbook/assets/view-gg-commands.gif)
 
 If you cannot view the 'gg' commands from the command line you may need to manually install the rhino plug-ins. Please follow the link below for some common issues that can occur during installation.
 
 {% page-ref page="common-installation-issues.md" %}
 
 If you are still experiencing issues after these steps please contact us. 
+
+### Grasshopper
+
+After installing, plug-in tabs in Grasshopper should also be added: 
+
+![Geometry Gym Grasshopper Tabs](../../.gitbook/assets/gh-tabs.png)
+
+Only tabs which include the plug-in you have installed will be provided. If the grasshopper tabs are not loading these can also be loaded manually. Please follow the link above for common installation issues.
 
 ## Step 3 - Request Licence
 
@@ -67,7 +75,7 @@ A trial licence needs to be requested prior to being able to use majority of the
 
 To Request a trial licence:
 
-1. Run the rhino command `ggZZLicenseRequest` command within Rhino and a dialog will present. 
+1. Run the rhino command `ggZZLicenseRequest` command within Rhino and a dialog will present as shown below:
 
 ![](../../.gitbook/assets/gglicence-request.gif)
 
@@ -75,13 +83,18 @@ If you a variant of Outlook/Windows Live installed, you can accept the option fo
 
 Simply, Paste \(Menu – Edit- Paste or &lt;CTRL&gt; – v\) into an email to Jon \(jonm@geometrygym.com\). 
 
+{% hint style="warning" %}
+We endeavor to respond to license requests as quickly as possible \(If online it will be near immediate\). If you haven’t gotten a reply within a day, please check email was sent or chase me up with another email.
+{% endhint %}
 
+## Step 4 - Activating Licence
 
-If you haven’t gotten a reply within a day, please check email was sent or chase me up with another email.
+Once you have received an .xml licence file from Jon via email.Follow the steps below to apply the licence:
 
-I respond to license requests as quickly as possible. If I’m online it will be near immediate, worst case should be 10 or 24 hours. If you don’t get a reply, please email me again.
-
-
+1. Save the file in a logical place on your hard drive. This can be save anywhere. 
+2. Run the  `ggZZLicenceUpdate` command similar to step 3 above in the rhino window.
+3. A browse window will appear which will allow you to browse to the saved licence file location. 
+4. Click okay, and you should retrieve a message stating "Successful Licence Installation". 
 
 
 
