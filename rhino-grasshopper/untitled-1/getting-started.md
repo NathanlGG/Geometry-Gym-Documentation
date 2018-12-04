@@ -19,5 +19,23 @@ Current capabilities include:
 
 ## Creating an IFC project from Scratch
 
+## Canvas output text Options 
+
+Within the grasshopper canvas you can select which output text string format you would like to view depending on your preference.
+
+* .xml
+* .step
+* .json
+
+![Text format options for ggIFC](../../.gitbook/assets/ifc-output-text-options.gif)
+
+{% hint style="warning" %}
+If the text does not auto-update press F5 to refresh the Grasshopper canvas
+{% endhint %}
+
+ 
+
+ 
+
 
 
