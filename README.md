@@ -1,7 +1,5 @@
 # Geometry Gym
 
-![](.gitbook/assets/141002-logo-graphic-square-200.png)
-
 ## Welcome to our new \(potential\) source of documentation and example access. 
 
 As we try to make the Geometry Gym tools more accessible and easy to use to a wider audience we are currently on a process of compiling a number of learning materials and documentation articles through a number of mediums. This is to help provide reliable and up-to-date learning and documentation resource access for beginners, intermediate and advanced users of the Geometry Gym tools. 
