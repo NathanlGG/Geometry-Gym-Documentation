@@ -1,8 +1,8 @@
 ---
-description: Getting start with the ggIFC plug-in
+description: Introduction to the Geometry Gym IFC plug-in for Rhino and Grasshopper
 ---
 
-# Getting Started
+# Introduction
 
 ## IFC tools for Rhino
 

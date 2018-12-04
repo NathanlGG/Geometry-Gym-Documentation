@@ -34,7 +34,7 @@
 * [Revit](rhino-grasshopper/revit/README.md)
   * [Examples](rhino-grasshopper/revit/examples.md)
 * [IFC](rhino-grasshopper/untitled-1/README.md)
-  * [Getting Started](rhino-grasshopper/untitled-1/getting-started.md)
+  * [Introduction](rhino-grasshopper/untitled-1/getting-started.md)
   * [IFC tools for Rhino](rhino-grasshopper/untitled-1/ifc-tools-for-rhino.md)
   * [IFC Import](rhino-grasshopper/untitled-1/ifc-import-export.md)
   * [Properties](rhino-grasshopper/untitled-1/properties.md)
