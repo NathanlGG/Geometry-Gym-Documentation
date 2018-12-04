@@ -39,7 +39,7 @@
   * [IFC Import](rhino-grasshopper/untitled-1/ifc-import-export.md)
   * [Properties](rhino-grasshopper/untitled-1/properties.md)
   * [Create via Code](rhino-grasshopper/untitled-1/create-via-code.md)
-  * [Examples](rhino-grasshopper/untitled-1/examples.md)
+  * [IFC Examples](rhino-grasshopper/untitled-1/examples.md)
 * [Tekla](rhino-grasshopper/tekla/README.md)
   * [Untitled](rhino-grasshopper/tekla/untitled-2.md)
 * [gbXML](rhino-grasshopper/gbxml/README.md)
