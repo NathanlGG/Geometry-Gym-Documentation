@@ -1,3 +1,7 @@
+---
+description: Welcome to Geometry Gym WIP documentation and learning.
+---
+
 # Geometry Gym
 
 ## Welcome to our new \(potential\) source of documentation and example access. 
@@ -14,7 +18,9 @@ Hopefully in the near future this can be printed directly to PDF or Ebook as an 
 
 ## How to navigate this guide
 
-At the top we have provided installation and general information surrounding installation and licencing of geometry gym and how this works.  Then we have split the document into groups relating to the main programs in-which Geometry Gym provides plug-ins for dropping into particular plug-ins and examples. 
+At the top we have provided general information surrounding installation and licencing of geometry gym and how this works.  Then we have split the document into groups relating for each main application \(Rhino-Grasshopper, Revit or Navisworks\) in-which Geometry Gym provides plug-ins for. From there it drops down into particular plug-ins or plug-in groups. 
+
+It is envisaged that each plug-in will have a list of examples which can either be or links to external youtube playlists or videos or blog posts. 
 
 You can also use the powerful search function to search for example files or any documentation related example. 
 
@@ -22,9 +28,9 @@ You can also use the powerful search function to search for example files or any
 
 ## How can you help?
 
-If you would like to help or have any particular requests around specific information that you would like to see in this document please do not hesitate to contact us. 
-
 We are always looking for ways to improve the tools and getting feedback from the users is paramount to help provide a good working product.
+
+If you would like to help or have any particular requests around specific information that you would like to see in this document please do not hesitate to contact us. 
 
 If you are willing to provide any worked examples or documentation that has been completed on Geometry Gym applications which you would like to see in this online document please let us know.
 
