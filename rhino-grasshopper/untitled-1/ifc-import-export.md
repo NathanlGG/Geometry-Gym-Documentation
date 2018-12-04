@@ -1,4 +1,4 @@
-# IFC Import/Export
+# IFC Import
 
 
 
