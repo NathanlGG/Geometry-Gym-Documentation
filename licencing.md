@@ -18,11 +18,11 @@ We provide the tools to students for free whilst at university.
 
 ## Commercial Licence
 
-The commercial licence of geometry uses an server based floating licence system which can be ac... 
+The commercial licence of geometry gym developments is accessed through an internet based license server.  This permits the license to float across multiple users and offices \(internationally if desired\). 
 
-Once a commercial licence has been purchased by an individual or company an .xml file 
+More details will be provided upon request.
 
 ### Purchasing a Licence
 
-Please see our [website](www.geometrygym.com) for information on purchasing commercial licences.
+Purchases can be arranged directly with Geometry Gym through email \(after the trial is undertaken\) or we do work with Rhino resellers in various countries.  Refer to the sales page at www.geometrygym.com for more details.
 

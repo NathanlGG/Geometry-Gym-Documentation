@@ -10,19 +10,19 @@ An automated update may be possible in the near future.
 
 ## Before Installing 
 
-Rhino plug-ins require Rhino to be installed and it is recommended that Grasshopper is also installed. Note v6 of Rhino now has Grasshopper built in.  
+Rhino plug-ins require Rhino to be installed and it is recommended that Grasshopper is also installed. Note since Rhino6, Grasshopper is built in but for Rhino5 must be installed independently.  
 
 Revit plug-ins will require Revit to be installed
 
 {% hint style="info" %}
-Know which version of Rhino or Revit is installed on your computer. We currently provide installers for Rhino v5 and v6 and for all recent builds of Revit. If you cannot find the version that you require please contact us. 
+Know which version of associated applications are installed on your computer. We currently provide public installers for Rhino5, Rhino6 and RhinoMac.  We also support recent builds of Revit and Tekla. If you cannot find the version that you require please contact us. Most Structural Analysis connectors also version specific.  You can typically only install one specific version \(which will permit legacy use of Grasshopper scripts in the future when newer versions are in use without upgrading or replacing components\).
 {% endhint %}
 
 You can download a trial version of the latest Rhino [here](https://www.rhino3d.com/download). 
 
 ## Step 1 - Download Installers
 
-The latest Geometry Gym installer files can be downloaded from the downloads page \(.msi for Windows and .macrhi for Mac\):
+The latest Geometry Gym installer files can be downloaded from the downloads page \(.msi for Windows developments and .macrhi for RhinoMac\):
 
 #### [www.geometrygym.com/downloads](http://www.geometrygym.com/downloads) 
 
